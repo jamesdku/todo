@@ -180,8 +180,8 @@ label[for='toggle-all'] {
   top: 0;
   bottom: 0;
   margin: auto 0;
-  border: none; /* Mobile Safari */
-  -webkit-appearance: none;
+  border: none; /* Mobile Safari */ 
+  
   appearance: none;
 }
 
@@ -352,7 +352,7 @@ html .clear-completed:active {
   }
 
   .todo-list li .toggle {
-    height: 40px;
+    height: 20px;
   }
 
   .toggle-all {
